@@ -1,4 +1,4 @@
-<img width="998" height="469" alt="image" src="https://github.com/user-attachments/assets/4e29d84d-7a32-4614-8028-d8541e1a96fa" /># Inventory and Sales Management System
+# Inventory and Sales Management System
 
 I made this project while learning SQL. I wanted to understand how a small shop actually keeps track of its stock and sales, so I built the whole thing in MySQL.
 
